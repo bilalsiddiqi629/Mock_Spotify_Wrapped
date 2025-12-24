@@ -1,4 +1,4 @@
-This is a mock Spotify wrapped project. It utilizes PySpark to clean raw Spotify listening data and generate summary statistics, a locally hosted PostgreSQL server to host the data, and PowerBI to visually display the data. 
+This is a mock Spotify wrapped project. It utilizes PySpark to query raw Spotify listening data and generate summary statistics, a locally hosted PostgreSQL server to host the data, and PowerBI to visually display the data. The PowerBI dashboard contains interactive features as well.
 
 <img width="876" height="488" alt="image" src="https://github.com/user-attachments/assets/d2571917-2e3c-4a90-b357-1fb03bf10b5d" />
 
